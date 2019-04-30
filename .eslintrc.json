@@ -1,0 +1,25 @@
+{
+    "parser": "babel-eslint",
+    "extends": "standard",
+    "rules":{
+        "no-unused-vars":"off",
+        "comma-spacing":"off",
+        "space-in-parens":"off",
+        "space-before-blocks":"off",
+        "indent":"off",
+        "keyword-spacing":"off",
+        "eol-last":"off",
+        "space-before-function-paren":"off",
+        "object-curly-spacing":"off",
+        "key-spacing":"off",
+        "quotes":"off",
+        "space-infix-ops":"off",
+        "semi":"off",
+        "no-unused-expressions":"off",
+        "func-call-spacing":"off",
+        "no-trailing-spaces":"off",
+        "semi-spacing":"off",
+        "operator-linebreak":"off",
+        "no-multiple-empty-lines":"off"
+    }
+}

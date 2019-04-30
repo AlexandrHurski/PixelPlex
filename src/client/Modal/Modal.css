@@ -1,0 +1,24 @@
+.Modal{
+    height: 60%;
+    width: 70%;
+    background-color: white;
+    position: fixed;
+    top:20%;
+    left: 15%;
+    border:1px solid black;
+    border-radius: 3%;
+    box-shadow: 1px 1px 1px black;
+    display:grid;
+    grid-template-rows: 1fr 4fr 1fr;
+    padding:10px;
+}
+.CloseComp{
+    float:right;
+    margin:10px;
+    width:20px;
+    height:20px;
+    justify-content: center
+}
+.CloseComp:hover{
+    background-color: gray
+}
